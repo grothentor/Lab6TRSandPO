@@ -1,0 +1,13 @@
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\bin\Debug\Lab6_Parallel_Calculations.exe.config
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\bin\Debug\Lab6_Parallel_Calculations.exe
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\bin\Debug\Lab6_Parallel_Calculations.pdb
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\MainWindow.baml
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\MainWindow.g.cs
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\App.g.cs
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\Lab6_Parallel_Calculations_MarkupCompile.cache
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\Lab6_Parallel_Calculations.g.resources
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\Lab6_Parallel_Calculations.Properties.Resources.resources
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\Lab6_Parallel_Calculations.csproj.GenerateResource.Cache
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\Lab6_Parallel_Calculations.exe
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\Lab6_Parallel_Calculations.pdb
+D:\Study\Programming\Projects\Lab6_Parallel_Calculations\Lab6_Parallel_Calculations\obj\Debug\Lab6_Parallel_Calculations.csprojResolveAssemblyReference.cache
